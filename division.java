@@ -1,9 +1,8 @@
-
 public class Division{
 	public static void main(String args[]) {
-		        int a=5, b=58, c;
+		        int a=12,b=6,c;
 			        c= a/b;
-				      System.out.println(c) ;
+				      System.out.println(c);
 	}
 }
 
